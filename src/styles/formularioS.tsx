@@ -18,10 +18,11 @@ export const FormBar = styled.div`
 `
 
 export const FormLabel = styled.label`
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 600;
 `
 
 export const FormInput = styled.input`
     padding: 10px;
+    font-size: 13px;
 `
